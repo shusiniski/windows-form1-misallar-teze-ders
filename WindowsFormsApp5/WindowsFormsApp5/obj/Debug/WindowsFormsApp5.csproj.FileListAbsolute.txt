@@ -1,0 +1,8 @@
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
